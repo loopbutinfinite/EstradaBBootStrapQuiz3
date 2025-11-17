@@ -1,8 +1,129 @@
-.DivColor{
-    background-color: blueviolet;
+.DivColor {
+    background-color: #DA00E1;
 }
 
-.titleHeader{
-    height: 200px;
-    background-color: #D9D9D9;
+.titleHeader {
+    height: 400px;
+    background-color: #A4DCDE;
+}
+
+.cardTextFontSize {
+    font-size: 30px;
+    color: #707070;
+    font-weight: 400;
+    font-family: "Gudea", sans-serif;
+    font-style: normal;
+}
+
+.gudea-regular {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.gudea-bold {
+    font-family: "Gudea", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.gudea-regular-italic {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.btn-primary {
+    border-radius: 0% !important;
+}
+
+.btnBackgroundGrn {
+    background-color: green !important;
+    border-radius: 0% !important;
+}
+
+.btnBackgroundRed {
+    background-color: red !important;
+    border-radius: 0% !important;
+}
+
+.btnBackgroundYellow {
+    background-color: #FFC107 !important;
+    border-radius: 0% !important;
+}
+
+.btnBackgroundWhite {
+    background-color: #FFFFFF !important;
+    border-radius: 0% !important;
+    color: black !important;
+}
+
+.malBlock {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    border: 1px solid black;
+    width: 540px;
+    height: 55px;
+    margin: 0;
+}
+.YuYuBlock {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    border: 1px solid black;
+    width: 540px;
+    height: 55px;
+    background-color: #0061E1;
+    margin: 0%;
+}
+.BerserkBlock {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    border: 1px solid black;
+    width: 540px;
+    height: 55px;
+    background-color: #E10000;
+    margin: 0%;
+}
+.HXHBlock {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    border: 1px solid black;
+    width: 540px;
+    height: 55px;
+    background-color: #DA00E1;
+    margin: 0%;
+}
+.BakiBlock {
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    border: 1px solid black;
+    width: 540px;
+    height: 55px;
+    background-color: #A4DCDE;
+    margin: 0%;
+}
+.footer {
+    background-color: #DA00E1;
+    color: #707070;
+    font-size: 40px;
+    font-family: "Gudea", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 154px;
+}
+.mainHeight{
+    height: 1500px;
+}
+.bodyBG{
+    background-color: #D8E4E4;
 }
